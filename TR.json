@@ -1,0 +1,146 @@
+[
+  {
+    "id": 201,
+    "name": "Wireless Bluetooth Earbuds",
+    "category": "Electronics",
+    "price": "$59.99",
+    "originalPrice": "$99.99",
+    "discount": "40% OFF",
+    "rating": 4.5,
+    "reviewCount": 1280,
+    "image": "https://www.jiomart.com/images/product/original/rvye2onr0b/noymi-true-wireless-bluetooth-5-1-in-ear-earbuds-with-mic-30-hours-playtime-bluetooth-earphones-with-13mm-drivers-ipx4-rating-and-fast-charging-white-product-images-orvye2onr0b-p596907967-0-202309260935.jpg?im=Resize=(420,420)",
+    "tags": [
+      "audio",
+      "wireless",
+      "bluetooth",
+      "music"
+    ],
+    "isNewArrival": true
+  },
+  {
+    "id": 202,
+    "name": "Smart Watch Series 5",
+    "category": "Electronics",
+    "price": "$199.99",
+    "originalPrice": "$249.99",
+    "discount": "20% OFF",
+    "rating": 4.7,
+    "reviewCount": 3420,
+    "image": "https://www.aviationkart.com/cdn/shop/products/Sc0f9d788987f4bc69b44c1f9e5582ce22_2048x.jpg?v=1691223409",
+    "tags": [
+      "wearable",
+      "fitness",
+      "smartwatch",
+      "health"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": 203,
+    "name": "Portable Power Bank 20000mAh",
+    "category": "Electronics",
+    "price": "$49.99",
+    "originalPrice": "$79.99",
+    "discount": "35% OFF",
+    "rating": 4.3,
+    "reviewCount": 890,
+    "image": "https://images-cdn.ubuy.co.in/6620d18656f9903d91488b9c-iniu-power-bank-20000mah-65w-usb-c.jpg",
+    "tags": [
+      "charging",
+      "portable",
+      "battery",
+      "travel"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": 204,
+    "name": "Adjustable Laptop Stand",
+    "category": "Electronics",
+    "price": "$29.99",
+    "originalPrice": "$49.99",
+    "discount": "40% OFF",
+    "rating": 4.6,
+    "reviewCount": 1560,
+    "image": "https://alogic.in/cdn/shop/files/Alogic_Elite_Power_Laptop_Stand_With_Wireless_Charger_Black_1.webp?v=1719555163&width=1200",
+    "tags": [
+      "laptop",
+      "stand",
+      "ergonomic",
+      "office"
+    ],
+    "isNewArrival": true
+  },
+  {
+    "id": 205,
+    "name": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "price": "$129.99",
+    "originalPrice": "$199.99",
+    "discount": "35% OFF",
+    "rating": 4.8,
+    "reviewCount": 2100,
+    "image": "https://www.boat-lifestyle.com/cdn/shop/products/main2_b66dce6b-710d-49cb-9d1c-2bc8c9c0ab15_600x.png?v=1645698328",
+    "tags": [
+      "audio",
+      "headphones",
+      "noise-cancelling",
+      "music"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": 206,
+    "name": "Gaming Keyboard RGB",
+    "category": "Electronics",
+    "price": "$89.99",
+    "originalPrice": "$129.99",
+    "discount": "30% OFF",
+    "rating": 4.4,
+    "reviewCount": 760,
+    "image": "https://m.media-amazon.com/images/I/71c5W9HxV-L._AC_SL1500_.jpg",
+    "tags": [
+      "gaming",
+      "keyboard",
+      "RGB",
+      "accessories"
+    ],
+    "isNewArrival": true
+  },
+  {
+    "id": 207,
+    "name": "4K Action Camera",
+    "category": "Electronics",
+    "price": "$149.99",
+    "originalPrice": "$249.99",
+    "discount": "40% OFF",
+    "rating": 4.2,
+    "reviewCount": 540,
+    "image": "https://m.media-amazon.com/images/I/71z+zFz7ZqL._AC_SL1500_.jpg",
+    "tags": [
+      "camera",
+      "4K",
+      "sports",
+      "outdoor"
+    ],
+    "isNewArrival": false
+  },
+  {
+    "id": 208,
+    "name": "Tablet 10-inch Display",
+    "category": "Electronics",
+    "price": "$229.99",
+    "originalPrice": "$299.99",
+    "discount": "25% OFF",
+    "rating": 4.5,
+    "reviewCount": 1890,
+    "image": "https://m.media-amazon.com/images/I/71k+zFz7ZqL._AC_SL1500_.jpg",
+    "tags": [
+      "tablet",
+      "touchscreen",
+      "portable",
+      "entertainment"
+    ],
+    "isNewArrival": true
+  }
+]

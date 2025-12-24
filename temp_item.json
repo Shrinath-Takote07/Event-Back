@@ -1,0 +1,8 @@
+﻿{
+    "id":  1,
+    "name":  "Test Item",
+    "description":  "test",
+    "price":  59.99,
+    "image":  "test",
+    "category":  "electronics"
+}
